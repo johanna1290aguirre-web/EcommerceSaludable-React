@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+// Este es un comentario de ejemplo para el Pull Request
 import { Container } from 'react-bootstrap';
 import { FaShoppingCart, FaEye } from 'react-icons/fa';
 import { useCart } from '../context/CartContext';
